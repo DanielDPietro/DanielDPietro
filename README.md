@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, Meu nome é Daniel, atualmente sou um aluno do curso de Análise e desenvolvimento de sistemas do SENAI, porémestou me especializando e pretendo me tornar um programador no futuro, aqui postarei 
+um pouco do meu trabalho!
 
 <!--
 **DanielDPietro/DanielDPietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
